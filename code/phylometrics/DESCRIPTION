@@ -1,0 +1,9 @@
+Package: phylometrics
+Title: Estimating statistical errors of phylogenetic metrics
+Version: 0.1
+Author: Xia Hua <xia.hua@anu.edu.au>, Lindell Bromham <lindell.bromham@anu.edu.au>
+Maintainer: Xia Hua <xia.hua@anu.edu.au>
+Description: phylometrics provides functions to estimate statistical errors of phylogenetic metrics particularly to detect binary trait influence on diversification, as well as a function to simulate trees with fixed number of sampled taxa and trait prevalence.
+Depends: R (>= 2.1.1)
+imports: mvtnorm
+License: GPL (>=2)
